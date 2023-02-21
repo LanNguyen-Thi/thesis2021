@@ -1,0 +1,7 @@
+Bước 1: Tải sourcecode từ folder src hoặc 
+trên link github https://github.com/LanNguyen-Thi/thesisLanUyen2021 về máy.
+Bước 2: Tạo thư mục uploads để chứa ảnh từ client gửi lên trong thư mục images.
+Bước 3: Tạo thư mục output để chứa tệp html trong thư mục static.
+Bước 4: Trong tập tin main.cpp, thay đổi đường dẫn dữ liệu đến thư mục (uploads) chứa ảnh từ client gửi lên.
+Bước 5: Chạy sourcecode trên Visual Studio Code.
+Bước 6: Chạy lệnh "python app.py"

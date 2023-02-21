@@ -1,0 +1,9 @@
+Cài đặt môi trường:
+- Công cụ xây dựng hệ thống: Visual Studio Code
+- Thư viên và nền tảng (framework) sử dụng:
++ Python 3.7
++ pip version >= 19
++ Python Flask (API): cài đặt bằng cách chạy lệnh pip flask trong terminal
++ Nodejs Express
++ Mở terminal, chạy lệnh pip install -r requirements.txt để cài đặt các thư viện
+còn lại
